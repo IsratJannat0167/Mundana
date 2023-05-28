@@ -1,0 +1,18 @@
+Forntend 3 Part
+	-- Professional Website Design
+		60 working Days -- Okay
+		-- html, bootsstrap, tailwind, responsive design, psd to html, figma to html, xd to html, ai to html, sketch to html.
+		
+	-- Wordpress Customization
+		30 working Days -- Okay
+		-- Wordpress Customization, html to Wordpress
+		
+	-- Forendend Developemt
+		180 working Days -- okay
+		-- 
+
+Backend Development
+	-- PHP - Laravel  -- 180 working Days -- okay
+	-- Python - Django -- 300 working Days -- okay
+	-- Dot Net - MVC -- 365 Working Days -- Okay
+	-- Java -- Spring Bot -- 365 Working Days -- Okay
